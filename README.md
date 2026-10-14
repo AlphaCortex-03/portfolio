@@ -20,6 +20,6 @@ To host for free: Settings → Pages → Branch `main` / root → Save. The site
 
 ## Contact
 
-- GitHub: [@gopalsingar2003-kolkata](https://github.com/gopalsingar2003-kolkata)
+- GitHub: [@https://github.com/AlphaCortex-03](https://github.com/AlphaCortex-03)
 - LinkedIn: [gopal-singar-3523b93a4](https://www.linkedin.com/in/gopal-singar-3523b93a4/)
 - Email: singargopal911@gmail.com
